@@ -20,10 +20,7 @@ Fernando Oliveira
 - 🎓 Especialista em Programação Orientada a Objetos
 - 🎓 MBA em Gestão de Projetos
 - 🎓 Especialsta em Desenvolvimento de Software
-
-
 ---
-
 <p align="center">
   <a href="https://github.com/Fernandogoncalves/github-readme-stats">
     <img
@@ -39,11 +36,8 @@ Fernando Oliveira
     />
   </a>
 </p>
-
 ---
-
 **Back-End:**
-
 ---
 **Front-End:**</br>
 </br>
@@ -55,10 +49,8 @@ Fernando Oliveira
 <img height="25" src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/angular-E23237.svg?&style=for-the-badge&logo=angular&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
-
 ---
 **Mobile:**
-
 ---
 **Design & UX:**
 <img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=for-the-badge&logo=material-ui&logoColor=white"> </img>
@@ -72,28 +64,6 @@ Fernando Oliveira
 <img height="25" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"></img>
-
----
-**DevOps**
-<img height="25" src="https://img.shields.io/badge/docker-33adff.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/rancher-0075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></img>
-[<img height="25" src="https://img.shields.io/badge/Swarm-FFA633.svg?&style=for-the-badge&logo=Swarm&logoColor=white"></img>](https://docs.docker.com/get-started/swarm-deploy/)
-  
-<img height="25" src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=for-the-badge&logo=SonarQube&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Sentry-FB4226.svg?&style=for-the-badge&logo=Sentry&logoColor=white"></img>
-
-
-
-
-<img height="25" src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black"></img>
-<img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/NGinx-269539.svg?&style=for-the-badge&logo=NGinx&logoColor=white"></img> 
-<img height="25" src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"></img>
-<img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
-
 
 
 

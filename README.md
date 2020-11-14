@@ -45,7 +45,6 @@ Fernando Oliveira
 **Back-End:**
 
 ---
-**Front-End:**
 **Front-End:**</br>
 </br>
 <img height="25" src="https://img.shields.io/badge/ReactiveX-B7178C.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white"></img>

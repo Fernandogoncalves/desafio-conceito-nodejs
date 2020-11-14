@@ -45,7 +45,7 @@ Fernando Oliveira
 **Back-End:**
 
 ---
-**Front-End:**</br>
+**Data:**</br>
 </br>
 <img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
@@ -55,6 +55,7 @@ Fernando Oliveira
 <img height="25" src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/angular-E23237.svg?&style=for-the-badge&logo=angular&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
+
 ---
 **Mobile:**
 

@@ -54,7 +54,7 @@ Fernando Oliveira
 **Design & UX:**
 
 ---
-- Data:
+- Data:</br>
 <img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/sqlserver-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>

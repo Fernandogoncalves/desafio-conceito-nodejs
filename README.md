@@ -1,67 +1,118 @@
+Fernando Oliveira
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Fernandogoncalves) 
+[![Gitlab](http://img.shields.io/badge/-Gitlab-388e3c?style=for-the-badge&logo=Gitlab&logoColor=white)](https://gitlab.com/vinnyfs89) 
+[![Bitbucket](http://img.shields.io/badge/-Bitbucket-006db3?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/vinnyfs89) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinnyfs89) 
+[![Gmail](http://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:viniciusfesil@gmail.com)
+[![Discord](http://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](vinnyfs89#6443)
+[![Twitter](http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vinnyfs89)
+[![Instagram](http://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vinnyfs89)
+[![Twitch](http://img.shields.io/badge/-Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/vinnyfs89)
+[![Telegram](http://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vinnyfs89)
+[![RSS](http://img.shields.io/badge/-RSS-FFA500?style=for-the-badge&logo=RSS&logoColor=white)](https://github.com/vinnyfs89.atom)
+
+**About me:**
+
+- 🚀 Scrum Master | PSM I | Analista de Sistemas | Analista de UX |
+- 💼 Atualmente eu trabalho [Engesoftware](https://www.engesoftware.com/)
+- 🎓 Mestre em Engenharia de Software
+- 🎓 Especialista em Programação Orientada a Objetos
+- 🎓 MBA em Gestão de Projetos
+- 🎓 Especialsta em Desenvolvimento de Software
 
 
-##🚀 **Sobre o desafio**
+---
 
-Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
+<p align="center">
+  <a href="https://github.com/Fernandogoncalves/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernandogoncalves&layout=compact&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/Fernandogoncalves/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=Fernandogoncalves&show_icons=true&theme=dracula"
+    />
+  </a>
+</p>
 
-Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+---
 
-Template da aplicação
-Para te ajudar nesse desafio, criamos para você um modelo que você deve utilizar como um template do Github.
+**Back-End:**
 
-O template está disponível na seguinte url: [Acessar Template] (https:/)/github.com/rocketseat-education/gostack-template-conceitos-nodejs)
+---
+**Front-End:**
 
-Dica: Caso não saiba utilizar repositórios do Github como template, temos um guia em nosso FAQ.
+---
+**Mobile:**
 
-Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando yarn no seu terminal para instalar todas as dependências, e você terá algo parecido com isso:
+---
+**Design & UX:**
 
-#Rotas da aplicação
-Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo app.js, e completar onde não possui código com o código para atingir os objetivos de cada rota.
+---
+**Data:**
+<img height="25" src="https://img.shields.io/badge/postgresql-336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/sqlserver-CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"></img>
 
-POST /repositories: A rota deve receber title, url e techs dentro do corpo da requisição, sendo a URL o link para o github desse repositório. Ao cadastrar um novo projeto, ele deve ser armazenado dentro de um objeto no seguinte formato: { id: "uuid", title: 'Desafio Node.js', url: 'http://github.com/...', techs: ["Node.js", "..."], likes: 0 }; Certifique-se que o ID seja um UUID, e de sempre iniciar os likes como 0.
+---
+**DevOps**
+<img height="25" src="https://img.shields.io/badge/docker-33adff.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/rancher-0075A8.svg?&style=for-the-badge&logo=rancher&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></img>
+[<img height="25" src="https://img.shields.io/badge/Swarm-FFA633.svg?&style=for-the-badge&logo=Swarm&logoColor=white"></img>](https://docs.docker.com/get-started/swarm-deploy/)
+  
+<img height="25" src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=for-the-badge&logo=SonarQube&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Sentry-FB4226.svg?&style=for-the-badge&logo=Sentry&logoColor=white"></img>
 
-- GET /repositories: Rota que lista todos os repositórios;
 
-- PUT /repositories/:id: A rota deve alterar apenas o title, a url e as techs do repositório que possua o id igual ao id presente nos parâmetros da rota;
 
-- DELETE /repositories/:id: A rota deve deletar o repositório com o id presente nos parâmetros da rota;
+<img height="25" src="https://img.shields.io/badge/ReactiveX-B7178C.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
+<img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
+<img height="25" src="https://img.shields.io/badge/typescript-33adff.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/nodejs-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=for-the-badge&logo=Vuetify&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/angular-E23237.svg?&style=for-the-badge&logo=angular&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/nestjs-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/Prettier-F7B93E.svg?&style=for-the-badge&logo=Prettier&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/ESLint-4B32C3.svg?&style=for-the-badge&logo=ESLint&logoColor=white"> </img>
+ 
+ 
+<img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=for-the-badge&logo=material-ui&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/bootstrap-33adff.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/php-4da6ff.svg?&style=for-the-badge&logo=php&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/zend-framework-68B604.svg?&style=for-the-badge&logo=zend-framework&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/Lumen-E74430.svg?&style=for-the-badge&logo=Lumen&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/symfony-000000.svg?&style=for-the-badge&logo=symfony&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/wordpress-21759B.svg?&style=for-the-badge&logo=wordpress&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Woo-96588A.svg?&style=for-the-badge&logo=Woo&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Composer-885630.svg?&style=for-the-badge&logo=composer&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/.NET-5C2D91.svg?&style=for-the-badge&logo=.NET&logoColor=white"></img>
 
-- POST /repositories/:id/like: A rota deve aumentar o número de likes do repositório específico escolhido através do id presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
 
-**Dica:** Acima utilizamos POST em uma rota, mesmo ela alterando o número de likes do repositório sem criar nada diretamente.
+<img height="25" src="https://img.shields.io/badge/GraphQL-E10098.svg?&style=for-the-badge&logo=GraphQL&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=black"></img>
+<img height="25" src="https://img.shields.io/badge/Heroku-430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/NGinx-269539.svg?&style=for-the-badge&logo=NGinx&logoColor=white"></img> 
+<img height="25" src="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Gnome-4A86CF.svg?&style=for-the-badge&logo=Gnome&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/RaspberryPi-C51A4A.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/Arduino-00979D.svg?&style=for-the-badge&logo=Arduino&logoColor=white"></img>
 
-Se dividirmos semânticamente as responsabilidades da nossa aplicação em entidades, o like seria uma entidade, e repository seria outra entidade.
 
-Com essa separação, temos diferentes regras de negócio para cada entidade, assim, ao chamar a rota de like e adicionamos apenas um like, podemos interpretar que estamos criando um novo like, e não atualizando os likes.
-
-Então por que não usar PUT no lugar de POST? Justamente por estarmos "criando" UM novo like, e não atualizando o número de likes para qualquer outro valor.
-
-Talvez fique difícil enxergar por ser apenas um número, mas pense que cada like seja salvo em uma tabela no banco junto do usuário que realizou esse like. Agora fica mais claro que você está criando um novo like, certo?
-
-Bons estudos <3
-
-**Específicação dos testes**
-
-Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir para que o teste passe.
-
-Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dé uma olhada em nosso FAQ.
-
-Para esse desafio temos os seguintes testes:
-
-- should be able to create a new repository: Para que esse teste passe, sua aplicação deve permitir que um repositório seja criado, e retorne um json com o projeto criado.
-
-- should be able to list the repositories: Para que esse teste passe, sua aplicação deve permitir que seja retornado um array com todos os repositórios que foram criados até o momento.
-
-- should be able to update repository: Para que esse teste passe, sua aplicação deve permitir que sejam alterados apenas os campos url, title e techs.
-
-- should not be able to update a repository that does not exist: Para que esse teste passe, você deve validar na sua rota de update se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status 400.
-
-- should not be able to update repository likes manually: Para que esse teste passe, você não deve permitir que sua rota de update altere diretamente os likes desse repositório, mantendo o mesmo número de likes que o repositório já possuia antes da atualização. Isso porque o único lugar que deve atualizar essa informação é a rota responsável por aumentar o número de likes.
-
-- should be able to delete the repository: Para que esse teste passe, você deve permitir que a sua rota de delete exclua um projeto, e ao fazer a exclusão, ele retorne uma resposta vazia, com status 204.
-
-- should not be able to delete a repository that does not exist: Para que esse teste passe, você deve validar na sua rota de delete se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status 400.
-
-- should be able to give a like to the repository: Para que esse teste passe, sua aplicação deve permitir que um repositório com o id informado possa receber likes. O valor de likes deve ser incrementado em 1 a cada requisição, e como resultado, retornar um json contendo o repositório com o número de likes atualizado.
-
-- should not be able to like a repository that does not exist: Para que esse teste passe, você deve validar na sua rota de like se o id do repositório enviado pela url existe ou não. Caso não exista, retornar um erro com status 400.

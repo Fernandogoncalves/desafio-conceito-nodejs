@@ -36,8 +36,10 @@ Fernando Oliveira
     />
   </a>
 </p>
+
 ---
 **Back-End:**
+
 ---
 **Front-End:**</br>
 </br>
